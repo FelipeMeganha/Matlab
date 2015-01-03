@@ -1,1 +1,2 @@
-Teste de código matlab
+A instrução for é utilizada quando é necessário a repetição de uma instrução ou um conjunto de instruções em um script ou em função do usuário, sabendo-se de antemão quantas vezes o corpo do laço será repetido.
+A variável que é usada para percorrer os valores em um comando for é chamada de variável de controle do laço ou iterador.
